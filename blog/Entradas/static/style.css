@@ -1,0 +1,12 @@
+.entradas{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.titulo-entradas{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode','Lucida Sans', Arial, sans-serif;
+    font-size: large;
+}
+
+body{
+    background-color: aquamarine;
+}
